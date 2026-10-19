@@ -1,4 +1,3 @@
-﻿# E-Commerce-Customer-Value-Purchase-Prediction
 # ShopSense – E-Commerce Customer Intelligence Platform
 
 Database-backed analytics and machine-learning system for customer value and repeat-purchase prediction.
